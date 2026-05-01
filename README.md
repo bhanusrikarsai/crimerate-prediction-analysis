@@ -14,7 +14,7 @@ An end-to-end full-stack application that analyzes historical crime patterns, pr
 > Add your deployed link here
 
 ```bash
-https://your-project-link.com
+https://github.com/bhanusrikarsai/crimerate-prediction-analysis
 ```
 
 ---
